@@ -1,0 +1,5 @@
+# Binary payloads (populated by CI at publish time)
+actual-darwin-arm64/bin/actual
+actual-darwin-x64/bin/actual
+actual-linux-x64/bin/actual
+actual-linux-arm64/bin/actual
