@@ -4,5 +4,6 @@
   "description": "actual binary for Linux x86-64",
   "os": ["linux"],
   "cpu": ["x64"],
-  "files": ["bin/"]
+  "files": ["bin/"],
+  "license": "MIT"
 }

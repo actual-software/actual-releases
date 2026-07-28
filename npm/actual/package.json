@@ -15,5 +15,5 @@
     "type": "git",
     "url": "https://github.com/actual-software/actual-cli"
   },
-  "license": "UNLICENSED"
+  "license": "MIT"
 }

@@ -7,5 +7,6 @@
   "files": ["bin/", "scripts/"],
   "scripts": {
     "postinstall": "node scripts/postinstall.js"
-  }
+  },
+  "license": "MIT"
 }
