@@ -1,0 +1,11 @@
+# Agent gate findings dirs (architect/reviewer rounds). Written per-worktree at
+# the repo root and carry internal bead ids, so they must never be swept into a
+# PR by a broad `git add -A` recovery.
+.architect/
+.reviewer/
+
+# macOS
+.DS_Store
+
+# Node
+node_modules/
