@@ -1,7 +1,7 @@
 {
   "name": "@actualai/actual",
   "version": "0.1.0",
-  "description": "ADR-powered AI context file generator",
+  "description": "Architecture questions, answered from your ADRs.",
   "bin": { "actual": "./bin/actual.js" },
   "optionalDependencies": {
     "@actualai/actual-darwin-arm64": "0.1.0",
